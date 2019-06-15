@@ -41,7 +41,6 @@ x_change = 0
 
 car_speed = 0
 side_x=' '
-side_y=' '
 vs=0
 while not crashed:
     for event in pygame.event.get():
